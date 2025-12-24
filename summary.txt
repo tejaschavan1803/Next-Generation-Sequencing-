@@ -1,11 +1,11 @@
-PASS	Basic Statistics	SRR636566_1_paired.fastq
-PASS	Per base sequence quality	SRR636566_1_paired.fastq
-FAIL	Per tile sequence quality	SRR636566_1_paired.fastq
-PASS	Per sequence quality scores	SRR636566_1_paired.fastq
-FAIL	Per base sequence content	SRR636566_1_paired.fastq
-WARN	Per sequence GC content	SRR636566_1_paired.fastq
-PASS	Per base N content	SRR636566_1_paired.fastq
-WARN	Sequence Length Distribution	SRR636566_1_paired.fastq
-PASS	Sequence Duplication Levels	SRR636566_1_paired.fastq
-PASS	Overrepresented sequences	SRR636566_1_paired.fastq
-PASS	Adapter Content	SRR636566_1_paired.fastq
+PASS	Basic Statistics	SRR636566_2_paired.fastq
+PASS	Per base sequence quality	SRR636566_2_paired.fastq
+PASS	Per tile sequence quality	SRR636566_2_paired.fastq
+PASS	Per sequence quality scores	SRR636566_2_paired.fastq
+PASS	Per base sequence content	SRR636566_2_paired.fastq
+PASS	Per sequence GC content	SRR636566_2_paired.fastq
+PASS	Per base N content	SRR636566_2_paired.fastq
+WARN	Sequence Length Distribution	SRR636566_2_paired.fastq
+PASS	Sequence Duplication Levels	SRR636566_2_paired.fastq
+PASS	Overrepresented sequences	SRR636566_2_paired.fastq
+PASS	Adapter Content	SRR636566_2_paired.fastq
